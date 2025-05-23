@@ -1,4 +1,4 @@
-# 🧠 From Basics to Brilliance: My 200-Project Front-End Learning Path
+# 🧠 From Basics to Brilliance: My +100-Project Front-End Learning Path
 
 Welcome to my personal front-end journey! This repository is a growing archive of **200 front-end projects** using **HTML**, **CSS**, and **JavaScript**, built from scratch as I sharpen my skills—one project at a time.
 

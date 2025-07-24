@@ -17,8 +17,8 @@ Welcome to my personal front-end journey! This repository is a growing archive o
 
 Projects are divided in phases:
 
-- 📘 **Phase 1 (Projects 1–100)** – Focused on layout and styling using HTML & CSS  
-- 📗 **Phase 2 (Projects 101–200)** – Introduces interactivity using JavaScript  
+- 📘 **Phase 1 (Projects 1–100)** –  Focus on layout, styling, and basic interactivity
+- 📗 **Phase 2 (Projects 101–200)** – Includes more advanced UI components and JavaScript functionality 
 
 Each folder follows this layout:
 ```
@@ -35,8 +35,14 @@ project-name/
 - 🎮 Rock Paper Scissors Game  
 - ⭐ Star Rating UI  
 - 🛡️ Password Generate
-
-
+- 💬 ChatBot UI
+- 📩 OTP Code Input
+- 🔒 Password Generator
+- ⭐ Star Rating System
+- 📊 Animated Skills Bar
+- 🧩 Drag & Drop Image Uploader
+- 🧾 ValidForm
+- 🕓 Timeline Design
 > More projects are added regularly!
 
 ---

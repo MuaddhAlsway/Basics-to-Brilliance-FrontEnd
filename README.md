@@ -43,6 +43,7 @@ project-name/
 - 🧩 Drag & Drop Image Uploader
 - 🧾 ValidForm
 - 🕓 Timeline Design
+- 📥 A Download Button with Timer
 > More projects are added regularly!
 
 ---

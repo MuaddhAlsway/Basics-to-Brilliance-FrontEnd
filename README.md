@@ -34,16 +34,18 @@ project-name/
 
 - 🎮 Rock Paper Scissors Game  
 - ⭐ Star Rating UI  
-- 🛡️ Password Generate
-- 💬 ChatBot UI
-- 📩 OTP Code Input
-- 🔒 Password Generator
-- ⭐ Star Rating System
-- 📊 Animated Skills Bar
-- 🧩 Drag & Drop Image Uploader
-- 🧾 ValidForm
-- 🕓 Timeline Design
-- 📥 A Download Button with Timer
+- 🛡️ Password Generator  
+- 💬 ChatBot UI  
+- 📩 OTP Code Input  
+- 🔒 Password Generator  
+- ⭐ Star Rating System  
+- 📊 Animated Skills Bar  
+- 🧩 Drag & Drop Image Uploader  
+- 🧾 ValidForm  
+- 🕓 Timeline Design  
+- 📥 A Download Button with Timer  
+- 🕰️ Analog Clock UI Design  
+
 > More projects are added regularly!
 
 ---

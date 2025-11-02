@@ -45,6 +45,7 @@ project-name/
 - 🕓 Timeline Design  
 - 📥 A Download Button with Timer  
 - 🕰️ Analog Clock UI Design  
+- 🌡️ Temperature Converter
 
 > More projects are added regularly!
 
